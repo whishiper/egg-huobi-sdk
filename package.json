@@ -1,5 +1,5 @@
 {
-  "name": "egg-huobi-sdk",
+  "name": "egg-huobi-sdk2",
   "version": "1.0.1",
   "description": "集成火币api的egg插件",
   "eggPlugin": {
