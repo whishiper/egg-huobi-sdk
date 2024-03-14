@@ -1,6 +1,6 @@
 {
   "name": "egg-huobi-sdk2",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "集成火币api的egg插件",
   "eggPlugin": {
     "name": "huobiSdk"
@@ -46,9 +46,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/whishiper/egg-huobi-sdk.git"
-  },
-  "bugs": {
-    "url": "https://github.com/whishiper/egg-huobi-sdk/issues"
   },
   "homepage": "https://github.com/whishiper/egg-huobi-sdk#readme",
   "author": "",
